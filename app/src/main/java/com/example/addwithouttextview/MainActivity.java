@@ -16,6 +16,6 @@ public class MainActivity extends AppCompatActivity {
         int num3 = 4;
         int sum = num1 + num2 +num3;
         System.out.println("sum" + sum);
-        Log.d("sum" , String.valueOf( sum ) );git
+        Log.d("sum" , String.valueOf( sum ) );
     }
 }
